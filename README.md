@@ -18,5 +18,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 <div>
    <a href="https://www.linkedin.com/in/davi-cotting-1b7578260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="malito:davicotting23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mauito:davicotting23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
