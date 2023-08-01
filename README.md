@@ -1,5 +1,5 @@
 ### Hi, i'm Davi Cotting!
-<div style=display: flex">
+<div style=display: flex"> 
 <div>
   <a href="https://github.com/davicotting">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davicotting&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
