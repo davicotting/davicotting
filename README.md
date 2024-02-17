@@ -1,10 +1,10 @@
 ### 🤙 Hi, i'm Davi Cotting!
 ## Full-Stack developer and a technology enthusiast
 
-<p>Currently pursuing a degree in Computer Science at FbUni Central<br>Eager to discover where and what I can improve.</p>
+<p>Currently pursuing a degree in Computer Science at FbUni Central. 👨🏻‍🎓<br>Eager to discover where and what I can improve. 🕵🏻‍♂️</p>
 <div style=display: flex"> 
 
-  ### My Stats:
+  ### 📊 My Stats:
   
 <div>
   <a href="https://github.com/davicotting">
@@ -18,15 +18,15 @@
   ##
 
 <div style=display: inline_block"><br>
-  <img align="center" alt="Davi-JavaScript" height="30px" width="40"
+  <img align="center" " height="30px" width="40"
   src="https://simpleicons.org/icons/html5.svg"/>
-  <img align="center" alt="Davi-JavaScript" height="30px" width="40"
+  <img align="center"  height="30px" width="40"
   src="https://simpleicons.org/icons/css3.svg"/>
-  <img align="center" alt="Davi-JavaScript" height="30px" width="40"
+  <img align="center"  height="30px" width="40"
   src="https://simpleicons.org/icons/javascript.svg"/>
-  <img align="center" alt="Davi-JavaScript" height="30px" width="40"
+  <img align="center" height="30px" width="40"
   src="https://simpleicons.org/icons/nodedotjs.svg"/>
-  <img align="center" alt="Davi-JavaScript" height="30px" width="40"
+  <img align="center"  height="30px" width="40"
   src="https://simpleicons.org/icons/sqlite.svg"/>
 
 </div>
