@@ -1,6 +1,3 @@
-<img align="right" height="200" src="https://github.com/davicotting.png"  />
-
-###
 
 <h1 align="left">Oi, eu sou o Davi👋</h1>
 
